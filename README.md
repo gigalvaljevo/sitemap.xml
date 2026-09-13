@@ -1,1 +1,1 @@
-# sitemap.xml
+gigal-sitemap
